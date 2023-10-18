@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **sohamsarkar59@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zhuhnXU22Yp0uFHC5xXjJukerKtQXtM5/view?usp=sharing](Resume)
-
 - ⚡ Fun fact **Giant pandas spend 10-16 hours a day feeding**
 
 <h3 align="left">Connect with me:</h3>
