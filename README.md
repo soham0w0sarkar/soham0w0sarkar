@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soham Sakar</h1>
 <h3 align="center">A Developer</h3>
 
-- 🌱 I’m currently learning **Svelte Sveltekit**
+- 🌱 I’m currently learning **GO Distributed Systems**
 
-- 💬 Ask me about **fullstack**
+- 💬 Ask me about **Systems**
 
 - 📫 How to reach me **sohamsarkar59@gmail.com**
 
