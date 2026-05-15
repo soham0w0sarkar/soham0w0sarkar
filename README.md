@@ -1,30 +1,78 @@
-<h1 align="center">Hi 👋, I'm Soham Sakar</h1>
-<h3 align="center">A Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Soham%20Sarkar&fontSize=42&fontColor=e0e0e0&fontAlignY=65&desc=backend%20engineer%20%20%7C%20%20i%20build%20things%20and%20break%20them%20to%20understand%20why&descSize=13&descAlignY=85&descColor=888888" />
+</div>
 
-- 🌱 I’m currently learning **GO Distributed Systems**
+<br/>
 
-- 💬 Ask me about **Systems**
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- 📫 How to reach me **sohamsarkar59@gmail.com**
+### the war stories
 
-- ⚡ Fun fact **Giant pandas spend 10-16 hours a day feeding**
+**port exhaustion. 1.5 seconds.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/soham0_0sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soham0_0sarkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soham0w0sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham0w0sarkar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18883361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18883361" height="30" width="40" /></a>
-<a href="https://instagram.com/soham._.sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soham._.sarkar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soham0w0sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soham0w0sarkar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/soham0w0sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soham0w0sarkar" height="30" width="40" /></a>
+Hit my load balancer with k6. 95% failure rate. Traced it to `MaxIdleConnsPerHost: 2` — Go's default. 28,000 ephemeral ports exhausted before I blinked.
+
+One config change. **8.2M successful requests.** p95 latency: 359ms → 43ms.
+
+→ [the debugging writeup](https://medium.com/@sohamsarkar59/part-2-from-port-exhaustion-to-8-2m-requests-debugging-a-production-performance-issue-2c5175e09660)
+
+---
+
+**building a CRDT engine because I wanted to understand how Figma works**
+
+Skip list for O(log n) indexing. Tombstone deletion. State vector sync. Transport agnostic. It's called Relay and it's half done and I'm learning more from it than anything else.
+
+→ [Relay](https://github.com/soham0w0sarkar/Relay)
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soham0w0sarkar&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=e0e0e0&sideLabels=888888&dates=555555" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### what I actually use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,c,cpp&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=redis,postgres,mongodb,docker,kubernetes,gcp&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,grafana,prometheus&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### by the numbers
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham0w0sarkar&show_icons=true&locale=en&layout=compact" alt="soham0w0sarkar" /></p>
+```
+8.2M      requests handled in a single k6 run
+95% → 7%  failure rate after debugging port exhaustion
+200ms     p95 latency on Redis pub/sub pipelines built in production
+2         data structures implemented from scratch (skip list + CRDT)
+1         fun fact: I like mango
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham0w0sarkar&show_icons=true&locale=en" alt="soham0w0sarkar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham0w0sarkar&" alt="soham0w0sarkar" /></p>
+### currently
+
+- 🔧 Finishing **Relay** — CRDT collab engine in TypeScript
+- 📖 Learning distributed systems correctness and networking internals
+- 🌍 Open to **remote backend roles** — Go, distributed systems, infra
+- 📬 [sohamsarkar59@gmail.com](mailto:sohamsarkar59@gmail.com) · [LinkedIn](https://linkedin.com/in/sohamsarkar) · [Twitter](https://twitter.com/avgdevexp) · [Medium](https://medium.com/@sohamsarkar59)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+</div>
