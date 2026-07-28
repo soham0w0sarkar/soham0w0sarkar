@@ -1,0 +1,171 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="100%" stop-color="#0d1420"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#7f5cff"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="0" y="0" width="900" height="480" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="900" height="480" fill="url(#bg)"/>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.19" text-anchor="middle">
+      <tspan x="20.5" dy="14">カ</tspan><tspan x="20.5" dy="14">1</tspan><tspan x="20.5" dy="14"><</tspan><tspan x="20.5" dy="14">セ</tspan><tspan x="20.5" dy="14">ス</tspan><tspan x="20.5" dy="14">キ</tspan><tspan x="20.5" dy="14">オ</tspan><tspan x="20.5" dy="14">エ</tspan><tspan x="20.5" dy="14">#</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-154" to="0,520" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.24" text-anchor="middle">
+      <tspan x="61.4" dy="14">サ</tspan><tspan x="61.4" dy="14">$</tspan><tspan x="61.4" dy="14">ス</tspan><tspan x="61.4" dy="14">=</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-84" to="0,520" dur="5.9s" begin="4.9s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.17" text-anchor="middle">
+      <tspan x="102.3" dy="14">#</tspan><tspan x="102.3" dy="14">[</tspan><tspan x="102.3" dy="14"><</tspan><tspan x="102.3" dy="14">ク</tspan><tspan x="102.3" dy="14">シ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-98" to="0,520" dur="7.3s" begin="2.0s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="14" fill="#00d9ff" opacity="0.21" text-anchor="middle">
+      <tspan x="143.2" dy="16">]</tspan><tspan x="143.2" dy="16">ソ</tspan><tspan x="143.2" dy="16">ア</tspan><tspan x="143.2" dy="16">+</tspan><tspan x="143.2" dy="16">カ</tspan><tspan x="143.2" dy="16">;</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-128" to="0,520" dur="3.8s" begin="1.8s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="13" fill="#00d9ff" opacity="0.15" text-anchor="middle">
+      <tspan x="184.1" dy="15">サ</tspan><tspan x="184.1" dy="15">ウ</tspan><tspan x="184.1" dy="15">ア</tspan><tspan x="184.1" dy="15">ス</tspan><tspan x="184.1" dy="15">></tspan><tspan x="184.1" dy="15">エ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-120" to="0,520" dur="6.9s" begin="5.2s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="14" fill="#00d9ff" opacity="0.22" text-anchor="middle">
+      <tspan x="225.0" dy="16">/</tspan><tspan x="225.0" dy="16">ケ</tspan><tspan x="225.0" dy="16">/</tspan><tspan x="225.0" dy="16">]</tspan><tspan x="225.0" dy="16">シ</tspan><tspan x="225.0" dy="16"><</tspan><tspan x="225.0" dy="16">ウ</tspan><tspan x="225.0" dy="16">ケ</tspan><tspan x="225.0" dy="16">セ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-176" to="0,520" dur="4.2s" begin="2.3s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="14" fill="#00d9ff" opacity="0.26" text-anchor="middle">
+      <tspan x="265.9" dy="16">}</tspan><tspan x="265.9" dy="16">イ</tspan><tspan x="265.9" dy="16">ス</tspan><tspan x="265.9" dy="16">ア</tspan><tspan x="265.9" dy="16">}</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-112" to="0,520" dur="5.1s" begin="0.4s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="14" fill="#00d9ff" opacity="0.15" text-anchor="middle">
+      <tspan x="306.8" dy="16">シ</tspan><tspan x="306.8" dy="16">_</tspan><tspan x="306.8" dy="16">.</tspan><tspan x="306.8" dy="16">+</tspan><tspan x="306.8" dy="16">ク</tspan><tspan x="306.8" dy="16">ソ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-128" to="0,520" dur="4.1s" begin="4.5s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.24" text-anchor="middle">
+      <tspan x="347.7" dy="14">#</tspan><tspan x="347.7" dy="14">.</tspan><tspan x="347.7" dy="14">/</tspan><tspan x="347.7" dy="14">ス</tspan><tspan x="347.7" dy="14">キ</tspan><tspan x="347.7" dy="14">_</tspan><tspan x="347.7" dy="14">エ</tspan><tspan x="347.7" dy="14">イ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-140" to="0,520" dur="6.9s" begin="0.9s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="13" fill="#00d9ff" opacity="0.24" text-anchor="middle">
+      <tspan x="388.6" dy="15">ウ</tspan><tspan x="388.6" dy="15">;</tspan><tspan x="388.6" dy="15">;</tspan><tspan x="388.6" dy="15">+</tspan><tspan x="388.6" dy="15">ソ</tspan><tspan x="388.6" dy="15">0</tspan><tspan x="388.6" dy="15">カ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-135" to="0,520" dur="6.2s" begin="3.2s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="13" fill="#00d9ff" opacity="0.27" text-anchor="middle">
+      <tspan x="429.5" dy="15">カ</tspan><tspan x="429.5" dy="15">></tspan><tspan x="429.5" dy="15">#</tspan><tspan x="429.5" dy="15">ケ</tspan><tspan x="429.5" dy="15">+</tspan><tspan x="429.5" dy="15">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-120" to="0,520" dur="7.3s" begin="5.3s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="14" fill="#00d9ff" opacity="0.27" text-anchor="middle">
+      <tspan x="470.5" dy="16">オ</tspan><tspan x="470.5" dy="16">{</tspan><tspan x="470.5" dy="16">サ</tspan><tspan x="470.5" dy="16">ク</tspan><tspan x="470.5" dy="16">/</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-112" to="0,520" dur="6.6s" begin="3.2s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.12" text-anchor="middle">
+      <tspan x="511.4" dy="14">}</tspan><tspan x="511.4" dy="14">_</tspan><tspan x="511.4" dy="14">1</tspan><tspan x="511.4" dy="14">カ</tspan><tspan x="511.4" dy="14">/</tspan><tspan x="511.4" dy="14">{</tspan><tspan x="511.4" dy="14">セ</tspan><tspan x="511.4" dy="14">イ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-140" to="0,520" dur="4.5s" begin="3.4s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="14" fill="#00d9ff" opacity="0.22" text-anchor="middle">
+      <tspan x="552.3" dy="16">ウ</tspan><tspan x="552.3" dy="16">キ</tspan><tspan x="552.3" dy="16">キ</tspan><tspan x="552.3" dy="16">-</tspan><tspan x="552.3" dy="16">ケ</tspan><tspan x="552.3" dy="16">ソ</tspan><tspan x="552.3" dy="16">#</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-144" to="0,520" dur="7.4s" begin="5.6s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.21" text-anchor="middle">
+      <tspan x="593.2" dy="14">{</tspan><tspan x="593.2" dy="14">.</tspan><tspan x="593.2" dy="14">/</tspan><tspan x="593.2" dy="14">=</tspan><tspan x="593.2" dy="14">=</tspan><tspan x="593.2" dy="14">カ</tspan><tspan x="593.2" dy="14">セ</tspan><tspan x="593.2" dy="14">ス</tspan><tspan x="593.2" dy="14">ウ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-154" to="0,520" dur="4.9s" begin="3.5s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.19" text-anchor="middle">
+      <tspan x="634.1" dy="14">ウ</tspan><tspan x="634.1" dy="14">イ</tspan><tspan x="634.1" dy="14">ス</tspan><tspan x="634.1" dy="14">ウ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-84" to="0,520" dur="7.1s" begin="5.2s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.22" text-anchor="middle">
+      <tspan x="675.0" dy="14">_</tspan><tspan x="675.0" dy="14">シ</tspan><tspan x="675.0" dy="14">キ</tspan><tspan x="675.0" dy="14">-</tspan><tspan x="675.0" dy="14">セ</tspan><tspan x="675.0" dy="14">-</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-112" to="0,520" dur="6.7s" begin="1.1s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.14" text-anchor="middle">
+      <tspan x="715.9" dy="14">#</tspan><tspan x="715.9" dy="14">$</tspan><tspan x="715.9" dy="14">+</tspan><tspan x="715.9" dy="14">イ</tspan><tspan x="715.9" dy="14">オ</tspan><tspan x="715.9" dy="14">イ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-112" to="0,520" dur="5.1s" begin="2.0s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.18" text-anchor="middle">
+      <tspan x="756.8" dy="14">=</tspan><tspan x="756.8" dy="14">キ</tspan><tspan x="756.8" dy="14">#</tspan><tspan x="756.8" dy="14">コ</tspan><tspan x="756.8" dy="14"><</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-98" to="0,520" dur="5.4s" begin="5.2s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="12" fill="#00d9ff" opacity="0.13" text-anchor="middle">
+      <tspan x="797.7" dy="14">オ</tspan><tspan x="797.7" dy="14">イ</tspan><tspan x="797.7" dy="14">0</tspan><tspan x="797.7" dy="14">エ</tspan><tspan x="797.7" dy="14">セ</tspan><tspan x="797.7" dy="14">ケ</tspan><tspan x="797.7" dy="14">$</tspan><tspan x="797.7" dy="14">_</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-140" to="0,520" dur="5.4s" begin="5.2s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="14" fill="#00d9ff" opacity="0.22" text-anchor="middle">
+      <tspan x="838.6" dy="16">;</tspan><tspan x="838.6" dy="16">ソ</tspan><tspan x="838.6" dy="16">+</tspan><tspan x="838.6" dy="16">></tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-96" to="0,520" dur="5.2s" begin="5.7s" repeatCount="indefinite"/>
+    </text>
+    <text font-family="Fira Code, monospace" font-size="14" fill="#00d9ff" opacity="0.27" text-anchor="middle">
+      <tspan x="879.5" dy="16">ク</tspan><tspan x="879.5" dy="16">サ</tspan><tspan x="879.5" dy="16">></tspan><tspan x="879.5" dy="16">シ</tspan><tspan x="879.5" dy="16">イ</tspan><tspan x="879.5" dy="16">イ</tspan><tspan x="879.5" dy="16">}</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,-144" to="0,520" dur="3.7s" begin="3.5s" repeatCount="indefinite"/>
+    </text>
+    <rect x="0" y="0" width="900" height="480" fill="#0a0e17" opacity="0.35"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="479" rx="14" fill="none" stroke="url(#glow)" stroke-width="1.4" opacity="0.7"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="900" height="38" rx="14" fill="#111826"/>
+  <rect x="0" y="24" width="900" height="14" fill="#111826"/>
+  <circle cx="26" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="19" r="6" fill="#27c93f"/>
+  <text x="450.0" y="24" fill="#6e7681" font-size="13" text-anchor="middle">sanju@dev: ~/soham0w0sarkar</text>
+
+  <!-- boot sequence -->
+  <g font-size="17" fill="#c9d1d9">
+    <text x="30" y="80" fill="#00d9ff">
+      <tspan>$ </tspan><tspan fill="#c9d1d9">whoami</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.01;0.05" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="30" y="108" fill="#e6edf3" font-size="26" font-weight="700">
+      <tspan>sanju</tspan><tspan fill="#00d9ff"> — backend / systems engineer</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.07;0.12" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="150" fill="#00d9ff">
+      <tspan>$ </tspan><tspan fill="#c9d1d9">cat focus.stack</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.15;0.20" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="30" y="178" fill="#a5f3ff">
+      <tspan>Go · TypeScript · Node.js · distributed systems</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.21;0.26" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="220" fill="#00d9ff">
+      <tspan>$ </tspan><tspan fill="#c9d1d9">tail -f ./weavo/STATUS</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.29;0.34" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="30" y="248" fill="#7f5cff">
+      <tspan>collaborative text editing SDK — CRDT / YATA under the hood</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.35;0.40" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="290" fill="#00d9ff">
+      <tspan>$ </tspan><tspan fill="#c9d1d9">./deploy --status</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.43;0.48" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="30" y="318" fill="#27c93f">
+      <tspan>build passing · release tagged · npm publish --provenance ✓</tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.49;0.54" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="360" fill="#00d9ff">
+      <tspan>$ </tspan>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.57;0.60" dur="10s" begin="0s" repeatCount="indefinite"/>
+      <tspan fill="#6e7681"> _</tspan>
+    </text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="46" y="347" width="10" height="18" fill="#00d9ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.25;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- scanline sweep -->
+  <rect x="0" y="0" width="900" height="3" fill="#00d9ff" opacity="0.08">
+    <animate attributeName="y" values="0;480;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
