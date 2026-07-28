@@ -3,7 +3,6 @@
 
   <br />
 
-  [![Profile views](https://komarev.com/ghpvc/?username=soham0w0sarkar&label=PROFILE+REQUESTS&color=00d9ff&style=flat-square&labelColor=0d1117)](https://github.com/soham0w0sarkar)
   [![Location](https://img.shields.io/badge/Greater_Noida-India-7f5cff?style=flat-square&labelColor=0d1117)](https://www.google.com/maps/place/Greater+Noida)
   [![Focus](https://img.shields.io/badge/FOCUS-Distributed_Systems-00d9ff?style=flat-square&labelColor=0d1117)](#current-signal)
 </div>
@@ -13,48 +12,37 @@
 ```yaml
 name: Soham Sarkar
 role: Backend / Systems Engineer
-mission: Build systems that stay boring under unreasonable load
+mode: Learning in public
+mission: Understand how reliable systems emerge from unreliable parts
 interests:
   - distributed systems
-  - real-time collaboration
+  - replication and consensus
+  - messaging and event-driven architecture
   - performance engineering
-  - developer tooling
-currently_building: Weavo
+  - observability
 ```
 
-I build backend systems, push them until they break, and write about what I learn.
-My sweet spot is where **correctness**, **latency**, and **developer experience** meet.
+I am exploring how distributed systems behave when networks delay, machines fail,
+clocks disagree, and traffic refuses to be predictable.
 
 <a id="current-signal"></a>
-## `> ./current-signal`
-
-<table>
-  <tr>
-    <td width="64">
-      <a href="https://github.com/soham0w0sarkar/Weavo">
-        <img src="https://raw.githubusercontent.com/soham0w0sarkar/Weavo/main/docs/assets/logo.png" width="52" alt="Weavo logo" />
-      </a>
-    </td>
-    <td>
-      <strong><a href="https://github.com/soham0w0sarkar/Weavo">Weavo</a></strong>
-      <br />
-      A tiny, framework-agnostic real-time collaborative text editing SDK.
-      Bind a native <code>&lt;textarea&gt;</code>, connect to a room, and sync—no editor framework or CRDT knowledge required.
-      <br />
-      <sub>TypeScript · CRDT/YATA · WebSockets · Monorepo</sub>
-    </td>
-    <td width="92" align="center">
-      <a href="https://soham0w0sarkar.github.io/Weavo/"><strong>LIVE DEMO ↗</strong></a>
-    </td>
-  </tr>
-</table>
+## `> tree ./distributed-systems`
 
 ```text
-WEAVO_NETWORK
-├── @weavo/client       browser bindings + cursor preservation
-├── @weavo/core         conflict-free collaborative engine
-├── @weavo/sync         synchronization protocol
-└── @weavo/transport    pluggable transport layer
+DISTRIBUTED_SYSTEMS/
+├── foundations/
+│   ├── time, ordering & logical clocks
+│   ├── replication & partitioning
+│   └── consistency models
+├── coordination/
+│   ├── consensus & leader election
+│   ├── failure detection
+│   └── distributed transactions
+├── architecture/
+│   ├── queues, streams & event logs
+│   ├── caching & load balancing
+│   └── observability & resilience
+└── status: learning, experimenting, writing
 ```
 
 ## `> ls ./toolbox`
@@ -79,25 +67,18 @@ WEAVO_NETWORK
 
 </div>
 
-## `> ./telemetry --public`
+## `> cat learning.log`
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soham0w0sarkar&show_icons=true&rank_icon=percentile&hide_border=true&bg_color=00000000&title_color=00d9ff&text_color=c9d1d9&icon_color=7f5cff" />
-    <img height="165" alt="Soham's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=soham0w0sarkar&show_icons=true&rank_icon=percentile&hide_border=true&title_color=0969da&icon_color=8250df" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soham0w0sarkar&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=00d9ff&text_color=c9d1d9" />
-    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham0w0sarkar&layout=compact&langs_count=6&hide_border=true&title_color=0969da" />
-  </picture>
+```log
+[ACTIVE]  consistency, availability and partition tolerance
+[ACTIVE]  replication strategies and failure modes
+[QUEUED]  consensus algorithms: Raft, Paxos and friends
+[QUEUED]  event logs, queues and stream processing
+[ALWAYS]  asking "what happens when this node disappears?"
+```
 
-  <br />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=soham0w0sarkar&hide_border=true&background=00000000&ring=00d9ff&fire=7f5cff&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" />
-    <img width="68%" alt="GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=soham0w0sarkar&hide_border=true" />
-  </picture>
-</div>
+> My current mental model: the network is unreliable, clocks are approximate,
+> failures are partial, and every guarantee has a cost.
 
 ## `> ./contributions --animate`
 
